@@ -38,7 +38,7 @@ La transmission au Conseil constitutionnel d'une question prioritaire est subord
 
 Il convient tout d'abord de rappeler que le décret n°\ 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public a notamment été pris pour l'application du chapitre IV du titre II du livre III du code des relations entre le public et l'administration et notamment des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 de ce code.
 
-En effet, l'article L.\ 324-4 renvoie explicitement à un décret en Conseil d'État la tâche de fixer «\ la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L. 324-1\ ».
+En effet, l'article L.\ 324-4 renvoie explicitement à un décret en Conseil d'État la tâche de fixer «\ la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L. 324-1.\ »
 
 À ce titre, la présente question prioritaire de constitutionnalité vise à faire constater la non-conformité à la Constitution des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations entre le public et l'administration, en ce qu'elles prévoient que\ :
 
@@ -90,7 +90,7 @@ Il en va de même pour la condition tirée du caractère sérieux de la question
 
 ## I) Atteinte à la séparation des pouvoirs
 
-### A) Financement d'une mission de service public par voie réglementaire
+### A) Financement d'une mission de service public par voie réglementaire ***[Hugo: je suggère de refaire le titre pour être cohérent avec le B) et pouvoir identifier exactement la nature du moyen développé ici -- mais ça me semble être aussi une question d'incompétence négative du législateur non?]***
 
 L'[article 34 de la Constitution](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000019241018&cidTexte=LEGITEXT000006071194) dispose que\ :
 
@@ -98,21 +98,24 @@ L'[article 34 de la Constitution](https://www.legifrance.gouv.fr/affichTexteArti
 > 
 > «\ La loi fixe les règles concernant\ : [...] l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures\ ; le régime d'émission de la monnaie.\ »
 
-Sur ce fondement, le Conseil constitutionnel considéré, dans sa [décision n° \ 77-100\ L. du 16\ novembre\ 1977](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1977/77-100-l/decision-n-77-100-l-du-16-novembre-1977.7551.html)\ :
+Sur ce fondement, le Conseil constitutionnel considéré, dans sa [décision n°\ 77-100\ L. du 16\ novembre\ 1977](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1977/77-100-l/decision-n-77-100-l-du-16-novembre-1977.7551.html)\ :
 
 > « [sur] le produit [d'une] redevance [...] destiné à couvrir notamment les dépenses du contrôle qui [...] est exercé par l'administration\ [...] 
-> que, compte tenu de cette affectation, la redevance n'est pas uniquement la contrepartie d'un service rendu et qu'elle a, dès lors, le caractère d'une taxe que l'article 34 de la Constitution réserve à la loi\ ».
+> que, compte tenu de cette affectation, la redevance n'est pas uniquement la contrepartie d'un service rendu et qu'elle a, dès lors, le caractère d'une taxe que l'article 34 de la Constitution réserve à la loi.\ »
 
-Par ailleurs, le Conseil constitutionnel a estimé, dans sa [décision du 23\ juin\ 1982 n°\ 82-124\ L.](http://www.conseil-constitutionnel.fr/conseil-con..4-l/decision-n-82-124-l-du-23-juin-1982.8026.html), que\ :
+Par ailleurs, le Conseil constitutionnel a estimé, dans sa [décision n°\ 82-124\ L. du 23\ juin\ 1982](http://www.conseil-constitutionnel.fr/conseil-con..4-l/decision-n-82-124-l-du-23-juin-1982.8026.html), que\ :
 
 > «\ les redevances perçues par les [...] établissements publics à caractère administratif, [...] destinées à assurer le financement des dépenses de toute nature qui incombent aux agences, [...] ne constituent pas [...] des rémunérations pour services rendus [...]\ ; 
 > qu'ainsi ces redevances doivent être rangées parmi les impositions de toute nature dont l'article\ 34 de la Constitution réserve au législateur le soin de fixer les règles concernant l'assiette, le taux et les modalités de recouvrement\ ».
 
-Le Conseil d'État a d'ailleurs considéré dans sa [décision n°293229 du 16\ juillet\ 2007](https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000018006881) que\ :
 
-> « pour être légalement établie - et, en particulier, ne pas revêtir le caractère d'une imposition dont seul le législateur pourrait fixer les règles - une redevance pour service rendu [en tout état de cause distincte d'une redevance domaniale] doit essentiellement trouver une contrepartie directe dans la prestation fournie par le service\ ».
+<!--Le Conseil d'État a aussi considéré dans sa [décision n°\ 293229 du 16\ juillet\ 2007](https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000018006881) que\ :
+
+> « pour être légalement établie - et, en particulier, ne pas revêtir le caractère d'une imposition dont seul le législateur pourrait fixer les règles - une redevance pour service rendu [en tout état de cause distincte d'une redevance domaniale] doit essentiellement trouver une contrepartie directe dans la prestation fournie par le service\ ». [Hugo: retiré car me semble redire ce qu'il y a au-dessus et à la lecture pas l'impression qu'il s'agit d'un moyen d'ordre constitutionnel-->
 
 Par essence, une mission de service public ne peut être considérée comme une prestation fournie puisqu'elle est inhérente aux principes de l'action publique et définie par les lois et les règlements de la République.
+
+***[Hugo : pas compris ce paragraphe ci-dessus]***
 
 L'alinéa 2 de l'[article 5 de la loi n°2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101?), codifié à l'[article L.\ 324-1 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219051&cidTexte=LEGITEXT000031366350&dateTexte=20161213?), prévoit notamment que\ :
 
@@ -120,7 +123,9 @@ L'alinéa 2 de l'[article 5 de la loi n°2015-1779 du 28 décembre 2015 relative
 
 La Conseil constitutionnel a également indiqué dans les décisions [n°\ 77-100\ L du 16\ novembre\ 1977](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1977/77-100-l/decision-n-77-100-l-du-16-novembre-1977.7551.html?) et  [n°\ 82-124\ L du 23\ juin\ 1982](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1982/82-124-l/decision-n-82-124-l-du-23-juin-1982.8026.html?), qu'une administration centrale ou un établissement public à caractère administratif ne pouvait établir de redevances que pour service rendus.
 
-Cet article vise à financer par une redevance pour services rendus les coûts liés à l'accomplissement de missions de service public par les administrations qui en sont chargées.
+***[Hugo: on se répète ci-dessus, on revient sur les décisions déjà citées ?]***
+
+Cet article ***[Hugo: lequel?*** vise à financer par une redevance pour services rendus les coûts liés à l'accomplissement de missions de service public par les administrations qui en sont chargées.
 
 Dans ces conditions, il ne fait aucun doute que le législateur a méconnu sa compétence et violé les dispositions de l'article 34 de la Constitution en déléguant au pouvoir réglementaire la possibilité d'instaurer des redevances destinées à financer des dépenses de toute nature relevant de l'accomplissement normal des missions de service public.
 
@@ -131,6 +136,7 @@ Au surplus, aux termes de l'article 14 de la Déclaration des droits de l'homme 
 > «\ Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée.\ »
 
 L’article 16 de la Déclaration des droits de l’homme dispose quant à lui que\ :
+
 > **Article 16**
 > 
 > «\ Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.\ »
@@ -139,7 +145,7 @@ En autorisant le pouvoir réglementaire à édicter des redevances de réutilisa
 
 ### B) Incompétence négative par manque de précision sur les administrations visées
 
-L'[article 5 de la loi n°2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'article [L.\ 324-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219078&cidTexte=LEGITEXT000031366350&dateTexte=20161213?) renvoie au pouvoir réglementaire le soin de définir les montants et les modalités de fixation de ces redevances.
+L'[article 5 de la loi n°\ 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'article [L.\ 324-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219078&cidTexte=LEGITEXT000031366350&dateTexte=20161213?) renvoie au pouvoir réglementaire le soin de définir les montants et les modalités de fixation de ces redevances.
 
 Cet article dispose en effet que\ :
 
@@ -157,25 +163,29 @@ En revanche, faute de définition précise, le pouvoir réglementaire n'a pas pu
 
 Le juge constitutionnel a estimé dans une [décision n°\ 2010-5 QPC du 18 juin 2010](http://www.conseil-constitutionnel.fr/decision/2010/2010-5-qpc/decision-n-2010-5-qpc-du-18-juin-2010.48459.html) que le grief tiré de «\ l'incompétence négative\ » pouvait être invoqué à l'appui d'un recours dès lors que le législateur a méconnu sa propre compétence «\ dans le cas où est affecté un droit ou une liberté que la Constitution garantit\ ».
 
-Or, en l'occurence, le législateur n'a absolument pas épuisé sa compétence en matière des droits et libertés fondamentaux puisqu'il renvoie au pouvoir réglementaire le soin de fixer les modalités de fixement des redevances.
 
 En l'occurence, en édictant les dispositions litigieuses le législateur a méconnu à double titre sa propre compétence en affectant des droits et libertés que la Constitution garantit. 
 
 D'une part, le législateur a méconnu l’étendue de sa compétence en s’abstenant totalement de définir les règles édictant les critères suivants lesquels sont fixées les redevances instituées par décret. 
 
-En effet, en droit, en vertu de l’article 34 de la Constitution, mais aussi de «\ l'objectif de valeur constitutionnelle d'intelligibilité et d'accessibilité de la loi, qui découle des articles 4, 5, 6 et 16 de la Déclaration des droits de l'homme et du citoyen de 1789\ », le Conseil constitutionnel considère dans [sa décision n°\ 2006-540 DC du 27\ juillet\ 2006](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2006/2006-540-dc/decision-n-2006-540-dc-du-27-juillet-2006.1011.html) et notamment dans son considérant 9, que pour que le législateur puisse être regardé comme ayant pleinement exercé sa compétence, encore faut-il que celui-ci « adopte des dispositions suffisamment précises et des formules non équivoques ».
+En effet, en droit, en vertu de l’article 34 de la Constitution, mais aussi de «\ l'objectif de valeur constitutionnelle d'intelligibilité et d'accessibilité de la loi, qui découle des articles 4, 5, 6 et 16 de la Déclaration des droits de l'homme et du citoyen de 1789\ », le Conseil constitutionnel considère dans [sa décision n°\ 2006-540 DC du 27\ juillet\ 2006](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2006/2006-540-dc/decision-n-2006-540-dc-du-27-juillet-2006.1011.html) et notamment dans son considérant 9, que pour que le législateur puisse être regardé comme ayant pleinement exercé sa compétence, encore faut-il que celui-ci «\ adopte des dispositions suffisamment précises et des formules non équivoques.\ »
 
 Surtout, dans cette même décision, le juge constitutionnel a également précisé que\ :
 
 > « [Le législateur] doit en effet prémunir les sujets de droit contre une interprétation contraire à la Constitution ou contre le risque d'arbitraire, sans reporter sur des autorités administratives ou juridictionnelles le soin de fixer des règles dont la détermination n'a été confiée par la Constitution qu'à la loi » ([décision n°\ 2006-540 DC du 27\ juillet\ 2006](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2006/2006-540-dc/decision-n-2006-540-dc-du-27-juillet-2006.1011.html)).
 
+***[Hugo: Il faudrait commencer par ce paragraphe ci-dessus]***
+
 D'autre part, en ne définissant pas de manière précise de « catégories d'administrations » et en laissant au pouvoir réglementaire blanc-seing pour choisir de manière arbitraire les « natures des administrations » et les « conditions de leur financement » compatibles avec l'établissement de redevances, le législateur a violé l'objectif de valeur constitutionnelle d'intelligibilité et d'accessibilité de la loi.
 
 Il ne fait donc aucun doute que le législateur a, là encore, méconnu sa propre compétence.
 
+
 **Derechef, l'invalidation des dispositions législatives contestées est encourue.**
 
 ## II) Atteinte au droit à l'information et à la liberté publique d'accès aux documents administratifs
+
+***[Hugo: Pourquoi mettre ne II?]***
 
 Tout d'abord, il y a lieu de rappeler que l'article 15 de la Déclaration des droits de l'homme et du citoyen de 1789 garantit que\ :
 
@@ -193,9 +203,9 @@ Ainsi, aux termes des dispositions de l'article L.\ 300-1\ :
 
 Le Conseil constitutionnel a, dans sa décision [n°\ 2014-5 LOM du 23 octobre 2014](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2014-5-lom/decision-n-2014-5-lom-du-23-octobre-2014.142541.html) et notamment en son considérant 4, estimé que :
 
-> «\ les règles relatives à l'étendue du droit des citoyens d'obtenir communication des documents administratifs mettent en cause les garanties des libertés publiques\ ».
+> «\ les règles relatives à l'étendue du droit des citoyens d'obtenir communication des documents administratifs mettent en cause les garanties des libertés publiques\. »
 
-Précédemment, le Conseil d'État avait pris une position analogue et jugé, dans une [décision n°228830 du 29 avril 2002)](https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008112306&), que :
+Précédemment, le Conseil d'État avait pris une position analogue et jugé, dans une [décision n°\ 228830 du 29 avril 2002)](https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008112306&), que :
 
 > «\ les dispositions [...] relatives à l'étendue du droit d'accès aux documents administratifs, concernent les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques.\ »
 
@@ -208,6 +218,10 @@ Par ailleurs, l’[article 34 de la Constitution](https://www.legifrance.gouv.fr
 > «\ La loi fixe les règles concernant : les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ; la liberté, le pluralisme et l'indépendance des médias\ ».
 
 Autrement dit, la Constitution prévoit que seule la loi peut définir les conditions dans lesquelles les citoyens peuvent jouir des libertés publiques.
+
+***[Hugo: encore :-)]***
+
+***[Hugo: pas de JP avec le caractère non proportionné au but poursuivi?]***
 
 Il incombe donc au législateur d’assortir de garanties légales suffisantes les dispositions qui pourraient affecter ces libertés. Ce qui implique qu’il ne peut, sauf à méconnaître sa compétence, déléguer au pouvoir réglementaire ni la détermination du champ d’application des règles qu’il pose pour l’exercice des libertés publiques, ni la fixation de garanties propres à protéger ces dernières.
 
@@ -249,19 +263,19 @@ L’article 1 de la Déclaration dispose notamment que\ :
 
 > **Article 1**
 > 
-> «\ Les hommes naissent et demeurent libres et égaux en droits\ ».
+> «\ Les hommes naissent et demeurent libres et égaux en droits\. »
 
 De plus, l’article 6 de la même déclaration dispose notamment que\ :
 
 > **Article 6**
 > 
-> «\ Tous les Citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents\ ».
+> «\ Tous les Citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents\. »
 
 L’article 13 dispose que\ :
 
 > **Article 13**
 > 
-> «\ une contribution commune est indispensable\ : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés\ ».
+> «\ une contribution commune est indispensable\ : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés\. »
 
 Enfin, aux termes de l’article 14,
 
@@ -281,6 +295,8 @@ Ainsi la progressivité de l'impôt permet d'assurer d'une part la participation
 
 L'établissement d'une redevance de réutilisation affecte de manière directe le droit d'accès et de réutilisation des documents administratifs. En effet, le fait de placer cette barrière financière à l'information crée une disproportion d'accès entre les citoyens face à l'administration et est donc contraire au principe d'égalité reconnu par les textes constitutionnels.
 
+***[Hugo: Je connais pas assez ce droit mais ça me semble très binaire comme argument, on n'a pas d'exemples similaires qui sont considérés comme OK par le Conseil constitutionnels?]***
+
 Dans ces conditions, il ne fait aucun doute que le législateur a porté atteinte au principe d'égalité en ne s'assurant pas que chaque contribuable puisse avoir accès aux informations déjà financées une première fois par l'impôt, et en permettant que certains contribuables puissent être ponctionnés de nouveau lorsqu'ils souhaitent réutiliser les informations du secteur public.
 
 **Par cette violation du principe d'égalité, le caractère sérieux préalable à la conformité de la question est donc là encore assuré.**
@@ -299,8 +315,8 @@ Il résulte de l’ensemble des considérations précédemment énoncées que ce
 
 De sorte qu’elle ne pourra qu’être transmise au Conseil constitutionnel.
 
-**PAR CES MOTIFS**, et tous autres à produire, déduire, suppléer, au besoin même d’office, l'exposante conclut à ce qu’il plaise au Conseil d’Etat\ :
+**Par ces motifs**, et tous autres à produire, déduire, suppléer, au besoin même d’office, l'exposante conclut à ce qu’il plaise au Conseil d’État de\ :
 
-- TRANSMETTRE au Conseil constitutionnel la question prioritaire de constitutionnalité relative à la conformité des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations du public avec l’administration au regard des principes de séparation des pouvoirs, d'intelligibilité et d'accessibilité de la loi, d'égalité devant la loi et devant les charges publiques, de droit à l'information des individus tels que résultant des articles 1er et 34 de la Constitution et des articles 1er, 4, 5, 6, 13, 14, 15 et 16 de la Déclaration des droits de l'homme et du citoyen.
+- <span style="font-style:small-caps">transmettre</span> au Conseil constitutionnel la question prioritaire de constitutionnalité relative à la conformité des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations du public avec l’administration au regard des principes de séparation des pouvoirs, d'intelligibilité et d'accessibilité de la loi, d'égalité devant la loi et devant les charges publiques, de droit à l'information des individus tels que résultant des articles 1er et 34 de la Constitution et des articles 1er, 4, 5, 6, 13, 14, 15 et 16 de la Déclaration des droits de l'homme et du citoyen.
 
 Avec toutes conséquences de droit.
